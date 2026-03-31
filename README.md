@@ -1,2 +1,4 @@
 # Uczenie-maszynowe
-Labolatorium z uczenia maszynowego
+Prace labolatoryjne z uczenia maszynowego
+
+Wykonane przy użyciu google colab
